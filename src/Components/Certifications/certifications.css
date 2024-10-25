@@ -1,0 +1,12 @@
+
+.cert-title{
+    margin: 1em auto 1em 0.5em;
+}
+
+@media (max-width: 460px)  { 
+
+    .cert-title{
+        margin: 1em auto 1em 0em;
+        
+   }
+}
