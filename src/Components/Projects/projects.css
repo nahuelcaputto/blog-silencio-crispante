@@ -1,31 +1,28 @@
-
-.projects-title{
-    margin: 3em auto 1em 2em;
+.projects-title {
+  margin: 3em auto 1em 2em;
 }
 
-.btn{
-    color:#ff4081;
-    border-color: #ff4081;
+.btn {
+  color: white;
+  border-color: white;
 }
 
-.btn:hover{
-    background-color:#ff4081;
-    border-color: #ff4081;
-    color:#fff
+.btn:hover {
+  background-color: white;
+  border-color: white;
+  color: #fff;
 }
 
-.projects-body{
-    min-height:270px;
+.projects-body {
+  min-height: 270px;
 }
 
-.project-buttons{
-    height: 90px;
+.project-buttons {
+  height: 90px;
 }
 
-
-@media (max-width: 767px)  { 
-
-    .projects-title{
-        margin: 3em auto 1em 1em;
-    }
-   }
+@media (max-width: 767px) {
+  .projects-title {
+    margin: 3em auto 1em 1em;
+  }
+}

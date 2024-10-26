@@ -27,73 +27,21 @@ code {
   height: 0;
 }
 
-/* The slider */
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
-}
-
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: 0.4s;
-  transition: 0.4s;
-}
-
-input:checked + .slider {
-  background-color: #2196f3;
-}
-
-input:focus + .slider {
-  box-shadow: 0 0 1px #2196f3;
-}
-
-input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(26px);
-}
-
-/* Rounded sliders */
-.slider.round {
-  border-radius: 34px;
-}
-
-.slider.round:before {
-  border-radius: 50%;
-}
-
-.text-pink {
-  color: #ff4081;
-}
-
 .presentation {
   width: 65%;
   margin: 20em auto 10em 15em;
   border-radius: 15px;
-  color: #060b26;
+  color: white;
 }
 
 .presentation h1 {
   font-size: 66px;
   font-weight: bold;
-  color: black;
+  color: white;
 }
 
 .presentation p {
-  color: black;
+  color: white;
   font-size: 25px;
   margin-top: 0;
   margin-bottom: 0;
@@ -118,13 +66,13 @@ input:checked + .slider:before {
   from {
     margin-left: 100%;
     width: 300%;
-    color: white;
+    color: black;
   }
 
   to {
     margin-left: 0%;
     width: 100%;
-    color: black;
+    color: white;
   }
 }
 
@@ -138,11 +86,11 @@ input:checked + .slider:before {
 @keyframes slideLeft {
   0% {
     right: 200px;
-    color: white;
+    color: black;
   }
   100% {
     right: 0px;
-    color: black;
+    color: white;
   }
 }
 
@@ -156,48 +104,12 @@ input:checked + .slider:before {
 @keyframes slideUp {
   0% {
     bottom: 500px;
-    color: white;
+    color: black;
   }
   100% {
     bottom: 0px;
-    color: #ff4081;
+    color: white;
   }
-}
-
-.social {
-  position: fixed;
-  top: 50%;
-  right: 0px;
-  transform: translateY(-50%);
-  z-index: 10;
-}
-.social a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 50px;
-  height: 50px;
-  margin: 0px;
-  padding: 0px;
-  line-height: 0px;
-  background-color: #ffffff;
-  border: 1px solid #cbcbcb;
-  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
-  text-decoration: none;
-}
-.social a:hover {
-  background-color: #ff4081;
-  transition: all ease 0.5s;
-}
-.social i {
-  font-size: 20px;
-  color: #2b2b2b;
-}
-.social i:hover {
-  color: #fff;
-  -webkit-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  transform: scale(1.2);
 }
 
 section {
@@ -212,8 +124,8 @@ section {
   .projects-section {
     height: 300vh;
   }
-  .about-section {
-    height: 150vh;
+  .relato-section {
+    height: 180vh;
   }
   .presentation {
     margin: auto;
@@ -226,10 +138,10 @@ section {
   }
 }
 
-.bg-dark {
-  background-color: #2b2b2b;
+.bg-black {
+  background-color: black !important;
 }
 
-.bg-light {
-  background-color: #fff;
+.text-white {
+  color: white;
 }
