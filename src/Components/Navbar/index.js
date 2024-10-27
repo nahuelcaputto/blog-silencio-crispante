@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import * as Scroll from "react-scroll";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./Navbar.css";
 
 export default function App() {
   const [sidebar, setSideBar] = useState(false);
@@ -10,9 +9,9 @@ export default function App() {
 
   //scrollers
   const homeScroll = () => Scroll.scroller.scrollTo("Home", { offset: -100 });
-  const projectsScroll = () =>
-    Scroll.scroller.scrollTo("Projects", { offset: 50 });
   const relatoScroll = () => Scroll.scroller.scrollTo("Relato", { offset: 0 });
+  const ensayosScroll = () =>
+    Scroll.scroller.scrollTo("Ensayos", { offset: 0 });
   const certificationsScroll = () =>
     Scroll.scroller.scrollTo("Certifications", { offset: 0 });
 
@@ -52,7 +51,7 @@ export default function App() {
             <Link
               to="/"
               className="menu-items text-white"
-              onClSck={projectsScroll}
+              onClSck={ensayosScroll}
             >
               <span>Ensayos</span>
             </Link>

@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from "react";
-import Projects from "../Projects/projects";
-import Relato from "../Relato/Relato";
+import React from "react";
 import { Element } from "react-scroll";
+import Textos from "../Textos";
 
 export default function Landing() {
   return (
@@ -17,14 +16,9 @@ export default function Landing() {
           </h1>
         </div>
       </section>
-      <section className="relato-section">
-        <Element name="Relato" />
-        <Relato />
+      <section className="textos-section">
+        <Textos />
       </section>
-      {/* <section className="projects-section">
-        <Element name="Projects" />
-        <Projects />
-      </section> */}
     </div>
   );
 }

@@ -1,4 +1,3 @@
-import "./Relato.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -13,7 +12,7 @@ export default function Relato() {
     <div className="container my-5">
       <div className="row">
         <h1 className="about-title" data-aos="fade-right">
-          Relato<strong>.</strong>
+          Relato<strong className="pres-dot">.</strong>
         </h1>
         <div
           className="about-text col-sm-12 col-md-12 col-lg-6"
