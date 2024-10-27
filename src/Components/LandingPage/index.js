@@ -1,5 +1,4 @@
 import React from "react";
-import { Element } from "react-scroll";
 import Textos from "../Textos";
 
 export default function Landing() {
@@ -13,7 +12,6 @@ export default function Landing() {
           Silencio Crispante<strong className="pres-dot">.</strong>
         </h1>
       </div>
-
       <Textos />
     </div>
   );

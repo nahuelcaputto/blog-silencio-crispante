@@ -7,13 +7,12 @@ export default function App() {
   const [sidebar, setSideBar] = useState(false);
   const showSideBar = () => setSideBar(!sidebar);
 
-  //scrollers
-  const homeScroll = () => Scroll.scroller.scrollTo("Home", { offset: -100 });
-  const relatoScroll = () => Scroll.scroller.scrollTo("Relato", { offset: 0 });
-  const ensayosScroll = () =>
-    Scroll.scroller.scrollTo("Ensayos", { offset: 0 });
-  const certificationsScroll = () =>
-    Scroll.scroller.scrollTo("Certifications", { offset: 0 });
+  const scrollInto = (sectionId) => {
+    const element = document.getElementById(sectionId);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+    }
+  };
 
   return (
     <>
@@ -34,36 +33,60 @@ export default function App() {
             </Link>
           </li>
           <li className="navbar-toggle">
-            <Link to="/" className="menu-items text-white" onClick={homeScroll}>
-              <span>Inicio</span>
-            </Link>
+            <div
+              className="menu-items text-white"
+              onClick={() => scrollInto("intro")}
+            >
+              <span>Intro</span>
+            </div>
           </li>
           <li className="navbar-toggle">
-            <Link
-              to="/"
+            <div
               className="menu-items text-white"
-              onClick={relatoScroll}
+              onClick={() => scrollInto("closet")}
             >
-              <span>Relato</span>
-            </Link>
+              <span>Closet</span>
+            </div>
           </li>
           <li className="navbar-toggle">
-            <Link
-              to="/"
+            <div
               className="menu-items text-white"
-              onClSck={ensayosScroll}
+              onClick={() => scrollInto("pausa")}
             >
-              <span>Ensayos</span>
-            </Link>
+              <span>Pausa Poética</span>
+            </div>
           </li>
           <li className="navbar-toggle">
-            <Link
-              to="/"
+            <div
               className="menu-items text-white"
-              onClick={certificationsScroll}
+              onClick={() => scrollInto("colegio")}
             >
-              <span>Obra</span>
-            </Link>
+              <span>Colegio</span>
+            </div>
+          </li>
+          <li className="navbar-toggle">
+            <div
+              className="menu-items text-white"
+              onClick={() => scrollInto("cronica")}
+            >
+              <span>Crónica del Hombre Gay</span>
+            </div>
+          </li>
+          <li className="navbar-toggle">
+            <div
+              className="menu-items text-white"
+              onClick={() => scrollInto("dedicatoria")}
+            >
+              <span>Dedicatoria</span>
+            </div>
+          </li>
+          <li className="navbar-toggle">
+            <div
+              className="menu-items text-white"
+              onClick={() => scrollInto("diario")}
+            >
+              <span>Diario del Angel Urbano</span>
+            </div>
           </li>
         </ul>
       </nav>

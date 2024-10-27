@@ -2,7 +2,7 @@ export default function Textos() {
   return (
     <div className="container my-5">
       <div className="row">
-        <h3>INTRODUCCION:</h3>
+        <h3 id="intro">INTRODUCCION:</h3>
         <p>
           {`
 Los textos que están a punto de leer fueron escritos en pandemia, encerrado. Algo pasó ahí, en pandemia, algo grande digo, para bien y para mal, yo creo que todavía estamos atravesando, sufriendo, aunque finjamos demencia las secuelas de aquella situación insólita, ese detenimiento y locura del mundo al principio y estado de alerta propuso una suerte de: 
@@ -45,7 +45,7 @@ Defendí y decidí este recorrido escénico y literario del que ahora forman par
 Buen viaje y gracias.`}
         </p>
 
-        <h1>Closet</h1>
+        <h1 id="closet">Closet</h1>
 
         <h3>ENCERRADO SIN MIEDO</h3>
         <p>
@@ -118,7 +118,7 @@ Soy esa foto, me digo, aunque ya no la tenga, aunque no ya exista.`}
         </p>
 
         <h1>=====================</h1>
-        <h1>Pausa Poetica</h1>
+        <h1 id="pausa">Pausa Poética</h1>
 
         <h3>Muchacho:</h3>
 
@@ -218,7 +218,7 @@ sos el encierro de la seguridad del tupper.
 Sos un puto, no importa nada mas.`}</p>
 
         <h1>……………………</h1>
-        <h1>Colegio</h1>
+        <h1 id="colegio">Colegio</h1>
 
         <h3>SKY DISCO (ANTES DEL INCENDIO)</h3>
 
@@ -314,7 +314,7 @@ En el mismo rincón de la grada en el que me ponía siempre para volverme invisi
 
         <h1>…………………………………………………………………………………………………………………………………</h1>
 
-        <h3>CRÓNICA DEL HOMBRE GAY (PUTITO POR VOS)</h3>
+        <h3 id="cronica">CRÓNICA DEL HOMBRE GAY (PUTITO POR VOS)</h3>
         <p>{`Terminamos de comer con mi novio y empecé a sentir la ansiedad del encierro pandémico.  Le pregunté a qué hora se iba al trabajo. Me dijo que ahora y decidí salir a tomar un paseo en bicicleta que juzgaba totalmente innecesario por algún motivo pero necesitaba despejarme, dejar de ver mis pensamientos rebotando contra las paredes. 
 Hace días tenía ganas de ir por las calles de mi colegio, últimamente recorro lugares con carga sentimental, mi casa demolida, el barrio caferata, lugares que no sé que me hacen pero algo disparan o simplemente ando en bici y ya. 
 Me despedí de mi novio en la parada del 42, él se fue y yo empecé a pedalear con ninguna dirección en particular. Me deje llevar por mis sentidos, por mi intuición. Mientras pedaleaba por pedro goyena empecé a registrar un malestar, me sentía nublado, como drogado, ensoñado,  las luces se partían en miles de proyecciones como cuando salis del agua. Pero había algo más, algo oscuro, las calles, el clima. “Algo raro está pasando” me dije. 
@@ -351,7 +351,7 @@ Una vez mi novio me preguntó:
 Yo le conteste: 
 Yo soy un hombre gay.`}</p>
 
-        <h3>DEDICATORIA</h3>
+        <h3 id="dedicatoria">DEDICATORIA</h3>
         <p>{`A todxs lxs que luchamos por ser nombradxs 
 A todxs lxs que ahora no quieren ser solo un nombre
 A lxs invisibles
@@ -378,7 +378,7 @@ Al error
 A Nietzsche
 A mí abuelo, que ya no debe entender nada, que me mira desde arriba riéndose de mí barbijo mientras lloro escribiendo esto…`}</p>
         <h1>…………………………</h1>
-        <h1>DIARIO DEL ANGEL URBANO (2024)</h1>
+        <h1 id="diario">DIARIO DEL ANGEL URBANO (2024)</h1>
 
         <h3>UN BEAT OSCURO:</h3>
         <p>
