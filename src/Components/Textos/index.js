@@ -377,8 +377,8 @@ Al amor puro y amorfo
 Al error
 A Nietzsche
 A mí abuelo, que ya no debe entender nada, que me mira desde arriba riéndose de mí barbijo mientras lloro escribiendo esto…`}</p>
-        <h1>…………………………</h1>
-        <h1 id="diario">DIARIO DEL ANGEL URBANO (2024)</h1>
+        <h1 id="diario">…………………………</h1>
+        <h1>DIARIO DEL ANGEL URBANO (2024)</h1>
 
         <h3>UN BEAT OSCURO:</h3>
         <p>
