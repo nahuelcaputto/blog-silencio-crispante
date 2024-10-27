@@ -127,12 +127,6 @@ section {
 }
 
 @media (max-width: 767px) {
-  .relato-section {
-    height: 180vh;
-  }
-  .ensayos-section {
-    height: 180vh;
-  }
   .presentation {
     margin: auto;
   }
