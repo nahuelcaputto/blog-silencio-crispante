@@ -117,8 +117,8 @@ Quedé petrificado en ese flash, es la foto que más representa que soy, qué qu
 Soy esa foto, me digo, aunque ya no la tenga, aunque no ya exista.`}
         </p>
 
-        <h1>=====================</h1>
-        <h1 id="pausa">Pausa Poética</h1>
+        <h1 id="pausa">=====================</h1>
+        <h1>Pausa Poética</h1>
 
         <h3>Muchacho:</h3>
 
@@ -217,8 +217,8 @@ sos el otre pero no sos la patria
 sos el encierro de la seguridad del tupper.
 Sos un puto, no importa nada mas.`}</p>
 
-        <h1>……………………</h1>
-        <h1 id="colegio">Colegio</h1>
+        <h1 id="colegio">……………………</h1>
+        <h1>Colegio</h1>
 
         <h3>SKY DISCO (ANTES DEL INCENDIO)</h3>
 
@@ -312,9 +312,9 @@ Recuerdo que se armaban trueques para engañar a los profesores, los que no ten�
 Desde las gradas observaba y me reía apostando conmigo mismo la cantidad de veces que esos cuerpos se tocaban los huevos o escupían agua con saliva, esos gestos que vienen pegados a algún ritual, que vamos copiando para ser parte de, yo los observaba, los estudiaba, pero nunca me fueron dados, es más me parecía una locura que alguien se pueda tocar/ acomodar tantas veces  su “pistola” y después tocarte, abrazarte. Lo mismo me pasaba con escupir, todo esto me era muy ajeno, casi pesadillesco, no lo entendía, nunca pude ser así, no soy así, siempre fui muy delicado, nunca me tocaba los huevos o escupía, me costaba horrores, menuda mariquita! 
 En el mismo rincón de la grada en el que me ponía siempre para volverme invisible (ya lo era), lleno de inscripciones con liquid paper, yacía mi cuerpo preso entre los garrotes imaginarios del despiadado y adolescente binarismo reinante. `}</p>
 
-        <h1>…………………………………………………………………………………………………………………………………</h1>
+        <h1 id="cronica">…………………………………………………………………………………………………………………………………</h1>
 
-        <h3 id="cronica">CRÓNICA DEL HOMBRE GAY (PUTITO POR VOS)</h3>
+        <h3>CRÓNICA DEL HOMBRE GAY (PUTITO POR VOS)</h3>
         <p>{`Terminamos de comer con mi novio y empecé a sentir la ansiedad del encierro pandémico.  Le pregunté a qué hora se iba al trabajo. Me dijo que ahora y decidí salir a tomar un paseo en bicicleta que juzgaba totalmente innecesario por algún motivo pero necesitaba despejarme, dejar de ver mis pensamientos rebotando contra las paredes. 
 Hace días tenía ganas de ir por las calles de mi colegio, últimamente recorro lugares con carga sentimental, mi casa demolida, el barrio caferata, lugares que no sé que me hacen pero algo disparan o simplemente ando en bici y ya. 
 Me despedí de mi novio en la parada del 42, él se fue y yo empecé a pedalear con ninguna dirección en particular. Me deje llevar por mis sentidos, por mi intuición. Mientras pedaleaba por pedro goyena empecé a registrar un malestar, me sentía nublado, como drogado, ensoñado,  las luces se partían en miles de proyecciones como cuando salis del agua. Pero había algo más, algo oscuro, las calles, el clima. “Algo raro está pasando” me dije. 
