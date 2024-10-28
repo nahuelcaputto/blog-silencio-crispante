@@ -1,21 +1,17 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 import { Link } from "react-router-dom";
-import * as Scroll from "react-scroll";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { useExitSectionOpen } from "../../useExitSectionOpen";
 
 export default function App() {
   const [sidebar, setSideBar] = useState(false);
   const showSideBar = () => setSideBar(!sidebar);
+  const navRef = useRef(document.createElement("nav"));
 
-  // useEffect(() => {
-  //   document.addEventListener("mousedown", handleClickOutside);
-  //   document.addEventListener("keyup", handleEsc);
-
-  //   return () => {
-  //     document.removeEventListener("mousedown", handleClickOutside);
-  //     document.removeEventListener("keyup", handleEsc);
-  //   };
-  // }, []);
+  useExitSectionOpen(navRef, showSideBar, {
+    outside: true,
+    escape: true,
+  });
 
   const scrollInto = (sectionId) => {
     const element = document.getElementById(sectionId);
@@ -35,7 +31,7 @@ export default function App() {
           />
         </Link>
       </div>
-      <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
+      <nav className={sidebar ? "nav-menu active" : "nav-menu"} ref={navRef}>
         <ul className="nav-menu-items" onClick={showSideBar}>
           <li className="navbar-toggle">
             <Link to="#" className="menu-bars">
