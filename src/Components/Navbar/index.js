@@ -7,11 +7,17 @@ export default function App() {
   const [sidebar, setSideBar] = useState(false);
   const showSideBar = () => setSideBar(!sidebar);
   const navRef = useRef(document.createElement("nav"));
+  const navRefOutside = useRef(document.createElement("div"));
 
-  useExitSectionOpen(navRef, showSideBar, {
-    outside: true,
-    escape: true,
-  });
+  useExitSectionOpen(
+    navRef,
+    showSideBar,
+    {
+      outside: true,
+      escape: true,
+    },
+    navRefOutside
+  );
 
   const scrollInto = (sectionId) => {
     const element = document.getElementById(sectionId);
@@ -22,7 +28,10 @@ export default function App() {
 
   return (
     <>
-      <div className={sidebar ? "navbar" : "navbar sticky-top"}>
+      <div
+        className={sidebar ? "navbar" : "navbar sticky-top"}
+        ref={navRefOutside}
+      >
         <Link to="#" className="menu-bars">
           <i
             className="fa fa-bars text-white"
