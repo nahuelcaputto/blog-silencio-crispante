@@ -34,8 +34,11 @@ strong {
 }
 
 .titulo-principal {
-  margin-top: 20rem;
-  margin-bottom: 30rem;
+  height: 100vh;
+  margin-top: -4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
