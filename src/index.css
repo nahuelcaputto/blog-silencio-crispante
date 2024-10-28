@@ -182,6 +182,13 @@ h3 {
     margin-left: 10px;
   }
   .landing-page {
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .landing-page {
     padding-left: 15rem !important;
     padding-right: 15rem !important;
   }
