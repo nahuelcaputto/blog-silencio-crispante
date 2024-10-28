@@ -7,6 +7,16 @@ export default function App() {
   const [sidebar, setSideBar] = useState(false);
   const showSideBar = () => setSideBar(!sidebar);
 
+  // useEffect(() => {
+  //   document.addEventListener("mousedown", handleClickOutside);
+  //   document.addEventListener("keyup", handleEsc);
+
+  //   return () => {
+  //     document.removeEventListener("mousedown", handleClickOutside);
+  //     document.removeEventListener("keyup", handleEsc);
+  //   };
+  // }, []);
+
   const scrollInto = (sectionId) => {
     const element = document.getElementById(sectionId);
     if (element) {
