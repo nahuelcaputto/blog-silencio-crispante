@@ -117,7 +117,7 @@ Quedé petrificado en ese flash, es la foto que más representa que soy, qué qu
 Soy esa foto, me digo, aunque ya no la tenga, aunque no ya exista.`}
         </p>
 
-        <h1 id="pausa">=====================</h1>
+        <h1 id="pausa">===========</h1>
         <h1>Pausa Poética</h1>
 
         <h3>Muchacho:</h3>
