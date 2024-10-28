@@ -11,7 +11,7 @@ export default function App() {
 
   useExitSectionOpen(
     navRef,
-    showSideBar,
+    () => setSideBar(false),
     {
       outside: true,
       escape: true,
