@@ -33,6 +33,16 @@ strong {
   height: 0;
 }
 
+.titulo-principal {
+  margin-top: 20rem;
+  margin-bottom: 30rem;
+  text-align: center;
+}
+
+.titulo-principal h1 {
+  font-weight: 900;
+}
+
 .presentation {
   width: 65%;
   margin: 20em auto 10em 15em;
@@ -152,6 +162,10 @@ p {
   line-height: 1.5 !important;
 }
 
+h3 {
+  margin-top: 2rem !important;
+}
+
 .text-white {
   color: white;
 }
@@ -160,9 +174,13 @@ p {
   margin: 3em auto 1em 1em;
 }
 
-@media (min-width: 768px) and (max-width: 990px) {
+@media (min-width: 768px) {
   .about-text {
     margin-left: 10px;
+  }
+  .landing-page {
+    padding-left: 15rem !important;
+    padding-right: 15rem !important;
   }
 }
 

@@ -44,8 +44,8 @@ Defendí y decidí este recorrido escénico y literario del que ahora forman par
 
 Buen viaje y gracias.`}
         </p>
-
-        <h1 id="closet">Closet</h1>
+        <h1 id="closet">…………………………</h1>
+        <h1>Closet</h1>
 
         <h3>ENCERRADO SIN MIEDO</h3>
         <p>
