@@ -98,6 +98,14 @@ export default function App() {
           <li className="navbar-toggle">
             <div
               className="menu-items text-white"
+              onClick={() => scrollInto("ensayos")}
+            >
+              <span>Ensayos</span>
+            </div>
+          </li>
+          <li className="navbar-toggle">
+            <div
+              className="menu-items text-white"
               onClick={() => scrollInto("diario")}
             >
               <span>Diario del Angel Urbano</span>

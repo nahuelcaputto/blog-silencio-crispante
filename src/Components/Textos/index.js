@@ -377,6 +377,249 @@ Al amor puro y amorfo
 Al error
 A Nietzsche
 A mí abuelo, que ya no debe entender nada, que me mira desde arriba riéndose de mí barbijo mientras lloro escribiendo esto…`}</p>
+
+        <h3 id="ensayos">…………………………</h3>
+        <h3>“Yo no soy un hombre, yo soy dinamita” Nietzsche</h3>
+        <h1>CLosET:</h1>
+        <p>{`Estas son algunas definiciones y consejos que encontré en internet poniendo “closet gay”:
+
+-Proceso por el que pasan las personas LGBTQ, para aceptar su orientación sexual o identidad de género, y para compartir esa identidad abiertamente con otras personas.
+
+-¿Cómo salir del closet y no morir en el intento?
+
+1)Ámate y acéptate tal y como eres
+2)Encuentra el momento adecuado
+3)Encuentra apoyo
+4)Tantea el terreno en el que pisas
+5)No te apresures
+6)Controla los nervios
+7)Comunícate con claridad
+8)Prepárate para diferentes reacciones
+
+
+-El clóset es un espacio en un cuarto, también conocido como armario, empotrado entre las paredes y destinado al almacenamiento de ropa y artículos diversos.
+………………………………………………………………………………………………………………………………
+
+Closet para nosotros  según internet vendría a ser un concepto, un proceso emancipatorio y aceptador que atravesamos para poder ser quien verdaderamente somos.
+
+Esto suena bello pero a mi sigue pareciendo y rechinando algo siempre con respecto a este concepto con el que estoy francamente obsesionado y estas definiciones y consejos además de enervarme un poco pasan por alto muchas e importantes cosas que quiero desasnar y expandir/liberar al respecto y con respeto al closet. 
+
+Quiero sacar al closet del closet.
+
+voy a sacar al closet del closet. 
+
+Aquí voy:
+
+Nosotros salimos del closet y  después de este paso o mejor dicho en este paso se haya la libertad del posterior orgullo de haber elegido y aceptado ser diferentes 
+
+Ahora yo me pregunto:
+
+¿No ha sido ese encierro, un espacio de recreación y absoluta libertad, de prueba, de misterio, de seducción, de peligro, de erotismo, de goce, de performance? ¿No es acaso la sociedad normativa y su percepción la madera opresora ilusoria de este closet del que luego se espera y exige la posterior salida “liberadora”? ¿No es nuestro rito oculto en respuesta a la prohibición que emana lo normativo?
+
+¿Quién y qué es un closet? ¿Quién es el que sale? ¿Quién es el que entra? ¿Qué es lo que sale? ¿Que se sale? ¿Qué se es después y antes de salir? ¿Por qué ha de salirse?¿Por qué ha de aclararse? ¿Puede uno salirse de sí mismo?¿Es salirse o aceptarse? ¿Es quien habita el closet quien debe aceptarse para salirse o aceptarse y así quedarse para siempre? ¿Es la sociedad, que espera en la salida de un territorio para el que siempre eligió ser ciego, al que nunca antes se había permitido ver, una aceptación aparente? 
+
+¿Dónde se halla la libertad y donde la prisión?¿Donde la verdad, donde la mentira? ¿Adentro u afuera?¿Antes o después de salir? ¿Dónde empiezan los problemas? ¿Dónde terminan? ¿Terminan?
+
+
+Problemas, como me gustan los problemas y aquí dentro del closet habita uno hermoso: Sufrido, oculto, bailado, actuado: Totalmente dionisicaco
+
+
+¿No está siempre lo maravilloso condenado al encierro?
+
+Se nos prohíbe ser y hacer maravillas fuera, por eso nos encerramos dentro de un closet.
+
+
+Lo que deja la incomprensión opresora normalizante, la discriminación y la invisibilazacion o hipervisibilizacion es la necesidad  de hacerce de un territorio oculto
+de una ilusión,un encierro, un secreto, un closet, una escena.
+
+
+Es decir, el encierro del closet no es el joven y festivo encuentro prohibido de un varón con los vestidos de su madre sino que es el joven encuentro de un varón con ser mujer prohibido que se libera/deviene a través de todos los vestidos de su madre.
+
+
+
+El closet es un territorio construido en respuesta a la opresión de una sociedad hegemónica biovigilante, debería ser nuestra más predilecta y defendida performance, no es una decisión autónoma referida al placer, al deseo, es la respuesta a una marginación que provoca la fabricación de una oscuridad exterior (artificio) que aloje dentro la luz interior que afuera no puede aparecer, solo dentro.
+
+Adentro, sin nadie, se libera lo cautivo, lo reprimido, se libera lo mujer.
+
+Se arma en este encierro el territorio ilusorio, se prueba lo que uno es a pesar y pesar del afuera, a pesar y pesar del bien y del mal. 
+
+Se es el reverso
+Se es el error
+Se vuelve verdad la mentira
+Se vuelve mentira la verdad
+
+Un encierro delimitado por lo que se puede dentro y por lo que no se puede fuera, ese adentro es construido siempre dentro de algo que el afuera no pueda ver, es orgánica y artificialmente obsceno, por habitar un territorio que está fuera de visión, fuera de LA escena  y por comportarse saturada y estallidamente dentro de esa transescena que compone (closet).
+
+Ponerse música, encerrarce y devenir lo más puto que uno pueda ser. Luego cambiarse e irse disfrazado de varón. Actuar, bailar: para subsistir.
+
+Es muy interesante pensar que nunca el closet es propio, se va en búsqueda de aquello que no se tiene, que no es dado. Hay una libertad no dada que en nuestro caso (maricones) se manifiesta en ese dolor de no poder ser más mujer afuera y ese dolor es entonces el que se territoritaliza adentro del  cuarto de la madre o de la tia o de la amiga.
+
+Nuestras infancias son oscuras porque no son consideradas claras, no son verdaderas, es decir solo bajo la perspectiva de una represión moral, de algo que no sale, que no puede ser nombrado, de lo que está adentro del closet, materia indeterminada, degenerada, que se descompone y compone. 
+
+Pero adentro no se produce una mentira…lo de adentro es más verdad que la verdad!!! 
+
+Es la mentira que se es fuera lo que seduce a esa verdad que se fabrica dentro del closet.
+
+Ahí adentro se produce una burla seria a la verdad mentirosa e hipócrita de afuera, una provocación, una invitación, una pregunta, una exageración degenerada, trans- formadora, un rito.
+
+
+En realidad salir del closet es uno de los eventos más traumáticos, graciosos y paradójicos para nosotros los distintos, los desviados, los degenerados porque es confesarle a tu opresor que te oprime para que tu opresor diga: 
+
+“Te apoyo, estoy con vos, lo entiendo, yo sabia, te quiero mucho”  
+
+En fin, hipocresía…y muchas cosas que uno tiene que soportar… a veces tan graciosas incluso, curiosas. 
+
+Hubo una que es genial, me la dijo mi tía, ser que amo profundamente, ella es mucho más grande que yo, católica, estridente y Ariana. Cuando le dije que era gay me miro a los ojos al borde de un llanto, me agarro las manos y me dijo: “Dios solo nos pone estos obstáculos en la vida porque sabe que somos capaces de superarlos” (superar lo gay) la traigo hoy con muchísimo humor porque me parece que allí radica esta idea de problema, de obstáculo, de desviación que necesita ser resuelta y también  es como si la sexualidad del desviado estuviera siempre respondiendo a este pedido de capacidad de aceptación, de condena de claridad rectificante.
+
+Se busca la comprensión y aceptación del oprimido pero nunca la causa de su opresión, que justamente viene del que acepta o no acepta y que ahora sabe, que lo siente, que va a tratar de aceptarte…
+
+¿Pero antes? ¿Antes que paso? ¿Antes donde se estuvo? ¿Antes se quiso saber? 
+
+Antes está el closet, que luego de la aparente aceptación queda lejos y lleno de polvo,  como un lugar al que nunca volver, un trauma irrepetible, un concepto vintage. 
+
+Pero el closet existe y es un lugar del que nunca deberíamos haber salido, o escapado o reprimido o por lo menos desde adentro decir:
+
+-No hay nada que aclarar, no hay nada que explicar, nada que decir.
+
+
+Es desde adentro de este lugar que tenemos que pedir la aceptación de él, es más no deberíamos pedir ninguna aceptación, debemos dejar de percibir nuestras identidades y nuestras infancias bajo el ojo jerarquizante y rectificado de una sociedad capitalista y Cristiana que quiere saber, qué quiere definir y dividir para poder vender y consumir.
+
+No debemos ser objeto de ninguna aceptación, ni al otro, ni a nosotros mismos.
+
+Toda  inclinación debe ser aceptada con naturalidad no naturalizante
+
+Nosotros lo distinto, lo monstruoso, lo diferente, somos humanos y somos orgánicos y naturales a nuestra manera, debemos y queremos vivir nuestras sexualidades de la manera más natural dentro de la diversidad cada vez más infinita colorida oscura monstruosa y amable que sea posible. 
+
+No deberíamos pedir comprensión ni aceptación, resolucion, deberíamos pedir paz y mejor aún, nadie le debería pedir nada a nadie, nadie nos debería preguntar cuales son nuestros pronombres, ni que somos, como si fuésemos bichos raros u objetos de pregunta, de develación. 
+
+No ser objeto de pregunta, ser la pregunta, lo indevelable.
+
+Hay que observar y estar alertas ante ese pedido de coherencia, de lógica y aceptación  en la construcción de nuestras sexualidades, de determinismo, de historia clínica 
+
+defender con humildad cínica, redoblante y refrescante nuestra deformación, nuestra degeneración y transexualidad, nuestra capacidad de devenir.
+
+Nuestro artificio
+Nuestra ilusión
+Nuestra pregunta
+`}</p>
+        <h3>“Yo solo creería en un dios que supiese bailar” Nietzsche</h3>
+        <h1>Bailar</h1>
+        <p>{`¿Qué es bailar? ¿Quiénes bailan? ¿Cómo se hace? ¿Qué es? ¿Qué produce bailar? ¿Qué quiero decir con todo esto? ¿Qué fue todo aquello? ¿Qué sentido tiene haber bailado? ¿Qué les hice? ¿Que paso?
+¿Porque bailo, porque elegí bailar? ¿Por qué me calle?
+
+Voy a arriesgar, a bailar sin miedo, sin tanto qué, porque primero que nada amo bailar y segundo: 
+
+¿Quién te quita lo bailado? 
+
+Desde mi incompetencia, desde mi posición, voy a escribir no sobre bailar, sino que voy a bailar sobre escribir, que ahora que lo escribo es un poco lo que hice con todo esto: Escribí un relato que me modificó para siempre y después más que publicarlo quise bailarlo, para eso como actor decidí entrenarme en danza, investigar, pero hoy siento que inconscientemente yo no estaba solo escribiendo un relato, un texto, sino que estaba forjando una escena, un universo, una ilusión, un bailar…
+
+Y ahora que ya baile, aquí estoy, este es el cuerpo del hoy y tengo algunas cosas más para decir. 
+
+La obra sigue pero ya termina
+                                         ya 
+                                              termina.
+
+
+Necesito un poco escribir de donde vengo y adonde me fui y como es que el baile se volvió tan fundamental y transversal para mi.
+
+Vengo de un closet, en ese closet yo era totalmente libre, de eso hablo en el relato, luego vino el colegio, de eso tambien hablo en el relato, de la opresión, de cómo todo cuando la edad avanza se vuelve pesado, prohibido, normativo, gris. 
+
+luego del colegio que para mi fue otro closet, vino la universidad, la licenciatura en actuacion, entiendan que para una persona que estuvo desde salita de 3 a 5to año en un colegio catolico medio progre bachillerato comercial con muy poca orientacion artististica siendo puto y artista una clase de expresion corporal en la U.N.A. te puede cambiar la vida, y así fue. 
+
+Los primeros años en la universidad yo tenia una energia, unas ganas, tenia tanto, tanto reprimido, tanto miedo, tantas ganas de expresarme, de ser visto, y escuchado, de ser querido y aceptado, estos dos primeros años fueron una explosion de tono, de fuerza, de velocidades:
+
+Feminismo, macrismo y el despertar de mi homosexualidad, imaginense…
+
+En estos años tuve mi primer pene frente a los ojos, se que suena obsceno pero sepan también que a mi eso me cambió la vida para siempre, fui libre, fui liberado.
+
+
+Expresión corporal era mi materia favorita (Benedicto) fueron dos años de profunda transformación. Un día al final de una clase, se acerca Ada, la profesora y me dice: “ Tu proceso tiene que investigar, trabajar más con la lentitud, con la suavidad, observar la crispación, cuidar ese tono, regularlo”.
+
+Esta mujer queridos amigos, es una bruja hermosa, es una lectora de procesos, sabe, intuye y hechiza. De esos docentes que te cambian la vida, el cuerpo y el alma para siempre.
+
+ Escuche y seguí el consejo de Ada y durante 3 clases seguidas me quedaba quieto, tieso o probaba esculturas suaves, aceites, océanos. Yo veía que ella me miraba y sonreía, en la cuarta clase viene mientras improvisábamos libremente y me dice suave y deliciosamente al oído: 
+
+“Pero a vos te gusta la velocidad”…te gusta el tono, vos sos eso, ya podes volver a ser quien eras, no trabajes por negación, ya tuviste demasiado eso. Minora, fusiona y sorprende. Eso que crispaba se fue disolviendo y ese silencio que callabas ya no te pertenece”
+
+Últimamente pienso en: 
+
+¿Qué nos cambia la vida? ¿Qué cosas real y profundamente cambian vidas? 
+
+Cosas pequeñas e imperceptibles para otro me cambiaron poderosamente la vida, ayer por ejemplo leí a Sartre por primera vez y la vida me cambió y mucho, en mi sillón, durante un silencio, nadie lo noto pero yo cambié totalmente, soy otro.  
+
+También pienso mucho acerca de los cambios de vida superficiales, referidos al dinero, a los premios, al reconocimiento, a los seguidores, a los likes, eso que llena y tanto queremos pero no dura, no baila.
+
+ Me llama poderosamente la atención como algunos cambios que son indecibles y sumamente internos como este susurro al oído, son mucho más poderosos que cualquiera de esos logros más del azar y del mercado, más materiales, es decir quedan más, calan más profundos y por eso son indecibles.
+
+a que voy con todo esto? 
+
+Nos invito a observar que a veces se dan cambios internos muy profundos, descubrimientos que te parten, lecturas que literalmente te transforman, susurros, gestos, clases, libros, obras, amores y muertes. 
+
+Y en la obra y en la vida y en el baile estos son los cambios que transforman, que sostienen, que importan.
+
+
+De lo que no hable es de ahora, en realidad si, la obra es el ahora, pero decidí no hablar porque para mi el relato sólo podía contarse bailando. 
+
+Fue una decisión no hablar, una posición filosófica, una irreverencia alimentada por el hartazgo de la palabra, de la comunicación pero principalmente por la escucha intuitiva y la pregunta al texto. 
+
+Yo le pregunté al relato que es lo que te atraviesa y él me contestó: EL BAILE.
+
+Esta decisión fue alimentada por el desarrollo también de una teoría que nace de investigar y entrenar muchísimo en danza, si me calle y elegí callarme es porque una vez entregado desde mi inocencia impune de actor al mundo de la danza esta me callo y cobijo, me invitó a no hablar… pero en realidad algo guardado tengo y ese algo guardado es la teoría de todo este delirio, la contracara de esta obra en la que me lanzo a escribir estos ensayos, es una forma de venganza y también un agradecimiento a mi mismo porque me costó mucho mantener la elección de no hablar, porque amo la palabra, amo el texto y hay un único texto que quizás hubiese dicho pero prefieri el riesgo, preferí callar, preferí bailar.
+
+Bailar fue siempre para mi un resguardo y un desgarre, una provocación, una incitación. 
+
+Bailar es un verbo, una acción que permite devenir, suceder, durar, expresar sin nada más que uno, el mundo y el otro.
+
+Es como si bailar no necesitará de circunstancias, bailar es lo más mágico, es manipular el aire, atravesarlo, bailar es casi imperceptible, inexistente.
+
+¿De donde viene la danza de uno?¿De dónde sale?¿Cuándo empieza?¿Cuándo termina? 
+
+Misterioso y abstracto, simbólico.
+
+Bailar es un misterio permitido, misterio avalado, es una locura consensuada que no tiene esa exigencia de la representación de una realidad como en la actuación, por eso me vine acá, porque yo estoy un poco loco, sufro y amo mucho todo esto, me sucede, me confunde, me pica, me infecta, me apasiona, me conmueve, me tumba.
+
+Me vine a la danza porque ella es (además) una gran productora de seres y de estados, no sólo de coreos partituras y técnicas, yo al formarme más en danza empecé a ver el rango de posibilidades que esta despliega en la composición actoral  y pese a estar si más entrenado y formado en actuación, hoy me doy cuenta que en realidad yo toda mi vida baile y quise bailar. 
+
+Luego uno crece y elige formarse y se separa un poco todo pero está en nosotros volver a unirnos, como sociedad y como artistas, porque queridos amigos en algun momento todo esto estuvo un poco más junto y mezclado, eso sospecho.
+
+Hoy en día reina la atomización, unos hacen música, otros poesía y otros bailan, yo soy un agente secreto, yo tráfico y llevo de un lado para el otro, me confundo mucho, ya no se que es poesía y que es cuerpo, que es música sin danza o que es de la actuación sin la danza
+
+Tanto problema me hice que se me armo algo (un problema mayor) un lenguaje, una investigación, un relato, un track, una obra, una teoría, y acá la estoy escribiendo. 
+
+Cuestión que me seguí formando pero algo me pasaba, necesitaba bailar mas, mucho mas, quería sudar, quería bailar, bailar, bailar y todo cada vez se ponia más del análisis, del texto, más académico, me harte de la palabra pero antes de hartarme de la palabra escribí el relato (Silencio Crispante) que leyeron y ahí lance todo. porque fue la llibertad de la universidad la que me hizo notar la represión del colegio y desde ahi escribi 
+
+Ahora hace 3 años que bailo en planta inclán, donde vieron la obra, empecé a investigar, a bailar, me metí en este mundo y estoy enamorado, me di cuenta que como actor soy muy buen bailarín y como bailarín soy muy buen actor 
+
+
+Yo no vengo del ambiente de la danza, siempre baile pero más tarde lo olvide… 
+
+Es como si me hubiese ido de niño de aquel mundo para volver a entrar pero como actor, como agente de apariencias, de estados y secretos, como un defensor y fabricador de verdad en la mentira, defensor del encierro.
+
+Creo que uno desde su incompetencia y no saber puede aportar e investigar muchísimo con lo que ya tiene para así ampliar el universo dancístico y el suyo propio. 
+
+(La carencia es potencia)
+
+El no saber nunca fue un párate para mi, si yo no sé algo, me lanzo mas aun, soy chanta, canalla, soy astuto, rápido, soy ladrón.
+
+La danza es una acción en la que se refleja esa posibilidad infinita del ser, y es que el humano tiene la posibilidad de moverse como serpiente, vaca o tía paralítica, se puede mover como, nos movemos como, somos capaces de cualquier cosa…
+
+Si lo supiéramos no estaríamos así, como estamos, tan destruidos, disgregados, tan sobrepasados, tan aturdidos, tan en guerra con nosotros mismos, con nuestra propia danza, de verdad lo digo, si todos ahora en el mundo bailáramos, fluyendo, sintiendo, bailáramos nuestra ira, nuestra impotencia, y es que eso hacemos en realidad, porque la vida es un baile, un sueño y también es caricia y es cachetada, es pesadilla, es plan, fracasó y sorpresa, en un orden descarado, en una coreografía cuyo último paso: es la muerte.
+
+Yo siempre trabajé para ser visto, siempre ame eso, yo me entrego a mis profesores, trabajo, me hundo, me pasa, me sucede, les bailo, los escucho, los respeto. 
+
+El otro dia hablando con mi hermana de la locura que estamos viviendo y de la universidad, en un silencio ella me dice: 
+
+- Al final no podrías haber elegido mejor profesión…
+-Porque?
+-Porque a vos siempre te gustó llamar la atención, es más fuerte que vos. 
+- Si… es más fuerte que yo. Le respondí seguro pero movilizado. 
+
+(Que algo sea más fuerte que uno, que no haya elección, que ya suceda, es terrible y hermoso al mismo tiempo)
+
+Y así es, para mi la vida nunca fue para pasar desapercibido, siempre baile, siempre quise llamar la atención y eso a veces te juega malas pasadas, vacíos muy grandes, como el que tenía antes de escribir esto, pero vuelvo a repetir:
+
+¿Quién te quita lo bailado?
+`}</p>
         <h3 id="diario">…………………………</h3>
         <h1>DIARIO DEL ANGEL URBANO (2024)</h1>
 
