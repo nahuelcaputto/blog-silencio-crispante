@@ -397,10 +397,11 @@ A mí abuelo, que ya no debe entender nada, que me mira desde arriba riéndose d
 8)Prepárate para diferentes reacciones
 
 
--El clóset es un espacio en un cuarto, también conocido como armario, empotrado entre las paredes y destinado al almacenamiento de ropa y artículos diversos.
-………………………………………………………………………………………………………………………………
+-El clóset es un espacio en un cuarto, también conocido como armario, empotrado entre las paredes y destinado al almacenamiento de ropa y artículos diversos.`}</p>
 
-Closet para nosotros  según internet vendría a ser un concepto, un proceso emancipatorio y aceptador que atravesamos para poder ser quien verdaderamente somos.
+        <h3>…………………………</h3>
+
+        <p>{`Closet para nosotros  según internet vendría a ser un concepto, un proceso emancipatorio y aceptador que atravesamos para poder ser quien verdaderamente somos.
 
 Esto suena bello pero a mi sigue pareciendo y rechinando algo siempre con respecto a este concepto con el que estoy francamente obsesionado y estas definiciones y consejos además de enervarme un poco pasan por alto muchas e importantes cosas que quiero desasnar y expandir/liberar al respecto y con respeto al closet. 
 
